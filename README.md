@@ -15,7 +15,7 @@ Olá, eu sou Alexandra Parra👋
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="REACT JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="SPRING BOOT" height="30" width="40" src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png">
+  <img align="center" alt="SPRING BOOT" height="30" width="30" src="https://www.clipartmax.com/png/small/117-1171017_spring-logo-spring-framework-logo.png">
 </div>
   
   ##
