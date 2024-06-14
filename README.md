@@ -1,7 +1,7 @@
 Olá, eu sou Alexandra Parra👋
-- 🔭 Estudante em análise e desenvolvimento de sistemas
+- 🔭 Formada em análise e desenvolvimento de sistemas
 - 💻 HTML, CSS, JS, React JS, Java, Spring Boot
-- 🌱 Desenvolvedora de software em formação 😊
+- 🌱 Desenvolvedora de software 😊
 
 <div align="center">
   <a href="https://github.com/AlexandraParra">
