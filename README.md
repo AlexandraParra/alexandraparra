@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|Formação SQL Database Specialist | [Certificado](https://hermes.dio.me/certificates/E1KSFHZO.pdf)|
 |Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/IIT5E9D7.pdf)|
 |Formação Fundamentos de Inteligência Artificial | [Certificado](https://hermes.dio.me/certificates/GRZ1GTBP.pdf)|
 |Formação HTML Web Developer | [Certificado](https://hermes.dio.me/certificates/XOJNCICL.pdf)|
