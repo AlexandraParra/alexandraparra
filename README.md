@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|Formação Docker Fundamentals | [Certificado](https://hermes.dio.me/certificates/ECEARQG4.pdf)|
 |Formação Linux Fundamentals | [Certificado](https://hermes.dio.me/certificates/V0TXF3KO.pdf)|
 |Formação SQL Database Specialist | [Certificado](https://hermes.dio.me/certificates/E1KSFHZO.pdf)|
 |Formação Github Certification | [Certificado](https://hermes.dio.me/certificates/IIT5E9D7.pdf)|
