@@ -39,6 +39,7 @@ Brasília, Brasil
 | Cursos | Certificados |
 |------- |------------- |
 |Formação Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQXPZMUF.pdf)|
+|Claro - Java com Spring Boot | [Certificado](https://hermes.dio.me/certificates/CERA8AQ7.pdf)|
 |Formação Java Developer | [Certificado](https://hermes.dio.me/certificates/3IKJN9YN.pdf)|
 |Formação Docker Fundamentals | [Certificado](https://hermes.dio.me/certificates/ECEARQG4.pdf)|
 |Formação Linux Fundamentals | [Certificado](https://hermes.dio.me/certificates/V0TXF3KO.pdf)|
