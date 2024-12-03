@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|Introdução à Ciência de Dados | |
 |Formação Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQXPZMUF.pdf)|
 |Claro - Java com Spring Boot | [Certificado](https://hermes.dio.me/certificates/CERA8AQ7.pdf)|
 |Formação Java Developer | [Certificado](https://hermes.dio.me/certificates/3IKJN9YN.pdf)|
