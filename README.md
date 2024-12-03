@@ -57,7 +57,8 @@ Brasília, Brasil
 |Microsserviços Java com Spring Boot e Spring Cloud - Java Beginners | [Certificado](https://www.udemy.com/certificate/UC-e375ed2e-0795-413d-807f-a5351081f450/)|
 |GFT Start Woman Java | [Certificado](https://hermes.dio.me/certificates/0A87E1CD.pdf)|
 |Java completo programação orientada a objetos | [Certificado](https://www.udemy.com/certificate/UC-ea85f396-6e53-4d23-944e-2b0499c080bb/)|
-|Linguagem de programação Python - básico | [Certificado](https://lms.ev.org.br/mpls/Web/Portal/Main/Home.aspx)|
+|Linguagem de programação Python - básico | [Certificado]([https://lms.ev.org.br/mpls/Web/Portal/Main/Home.aspx](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252bf%252bUP5Qysyg%252bRyQ0IxcdCw))|
+|Fundamentos de Lógica de Programação | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252frIAB%252f54aPrwNhmZ4y3iUp)|
 |Algoritmo | [Certificado](https://www.cursoemvideo.com/validacao-de-certificado/?codigo=41BA7-6297-3)|
 
 ---
