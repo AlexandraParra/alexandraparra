@@ -52,7 +52,7 @@ Brasília, Brasil
 |Desenvolvimento Java com IA | [Certificado](https://hermes.dio.me/certificates/SQW8VSX2.pdf)|
 |Desenvolvimento Java com Cloud AWS | [Certificado](https://hermes.dio.me/certificates/1D01487A.pdf)|
 |Spring Boot | [Certificado](https://hermes.dio.me/certificates/BDD878D7.pdf)|
-|Palestrante CPBSB5 | |
+|Palestrante CPBSB5 | [Certificado](https://www.linkedin.com/in/alexandrampr/details/certifications/1733243755485/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc)|
 |Fundamentos de TI: Hardware e Software | [Certificado](https://lms.ev.org.br/mpls/Web/Lms/Student/PrintCertificateDownload.ashx?uid=7761015&p=H%252b2jOZc0Hq%252fw1%252bDK2KT507AA0IzsYULv)|
 |Curso Angular | [Certificado](https://www.udemy.com/certificate/UC-318d5d88-f406-42ad-8b9e-74f55565c273/)|
 |Monitoria no Projeto Labtech | |
