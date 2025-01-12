@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|Formação JavaScript Developer | [Certificado](https://hermes.dio.me/certificates/QMLBASTV.pdf)|
 |Formação CSS Web Developer | [Certificado](https://hermes.dio.me/certificates/ZHSOQWXN.pdf)|
 |Introdução à Ciência de Dados | [Certificado](https://www.linkedin.com/in/alexandrampr/overlay/1733245845716/single-media-viewer/?profileId=ACoAADeqaCEBu4gvG5I3Wk3cdbIL1foEtut0KHc)|
 |Formação Python Fundamentals | [Certificado](https://hermes.dio.me/certificates/DQXPZMUF.pdf)|
