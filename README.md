@@ -36,7 +36,7 @@
 Brasília, Brasil  
 08/2023
 
-| Cursos | Certificados |
+| Curso | Certificado |
 |------- |------------- |
 |Formação JavaScript Developer | [Certificado](https://hermes.dio.me/certificates/QMLBASTV.pdf)|
 |Formação CSS Web Developer | [Certificado](https://hermes.dio.me/certificates/ZHSOQWXN.pdf)|
