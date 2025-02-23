@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|Formação Angular Developer | [Certificado](https://hermes.dio.me/certificates/A8FRAUSZ.pdf)|
 |Formação React Developer | [Certificado](https://hermes.dio.me/certificates/JJTYFOSI.pdf)|
 |Formação JavaScript Developer | [Certificado](https://hermes.dio.me/certificates/QMLBASTV.pdf)|
 |Formação CSS Web Developer | [Certificado](https://hermes.dio.me/certificates/ZHSOQWXN.pdf)|
