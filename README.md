@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" title="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" title="JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="REACT JS" title="REACT JS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="ANGULAR" title="ANGULAR" width="50" src="https://camo.githubusercontent.com/8886130b3d8aba95dbdd7c4f9a41029606424cc06d1873c1ced87dd55a222fef/68747470733a2f2f616e67756c61722e696f2f6173736574732f696d616765732f6c6f676f732f616e67756c61722f616e67756c61722e737667">
+  <img align="center" alt="ANGULAR" title="ANGULAR" width="50" src="https://js.devexpress.com/Content/Images/Frameworks/Angular.png">
   <img align="center" alt="JAVA" title="JAVA" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="SPRING BOOT" title="SPRING BOOT" width="40" src="https://img.icons8.com/color/480w/spring-logo.png">
   <img align="center" alt="PYTHON" title="PYTHON" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
