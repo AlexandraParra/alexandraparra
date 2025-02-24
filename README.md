@@ -20,7 +20,7 @@
   <img align="center" alt="PYTHON" title="PYTHON" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg">
   <img align="center" alt="POSTGRESQL" title="POSTGRESQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MYSQL" title="MYSQL" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="SWAGGER" title="SWAGGER" width="40" margin="0 5px" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
+  <img align="center" alt="SWAGGER" title="SWAGGER" width="40" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
   <img align="center" alt="POSTMAN" title="POSTMAN" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png?f=webp&w=256">
   <img align="center" alt="DOCKER" title="DOCKER" width="60" src="https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png">
   <img align="center" alt="GIT" title="GIT" width="40" src="https://i0.wp.com/www.nosinmiubuntu.com/wp-content/uploads/2012/06/git.png?resize=400%2C270&ssl=1">
