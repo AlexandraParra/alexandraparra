@@ -21,7 +21,7 @@
   <img align="center" alt="POSTGRESQL" title="POSTGRESQL" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="MYSQL" title="MYSQL" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="SWAGGER" title="SWAGGER" width="40" src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png">
-  <img align="center" alt="POSTMAN" title="POSTMAN" width="40" src="https://camo.githubusercontent.com/a13ca5b988ada41839ebe4f88455e63419a1b56fcb5eda207794cd1649a61d2c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667">
+  <img align="center" alt="POSTMAN" title="POSTMAN" width="40" src="https://image.pngaaa.com/177/5539177-middle.png">
   <img align="center" alt="DOCKER" title="DOCKER" width="50" src="https://camo.githubusercontent.com/15fb6fc78b02b700c88462610068c62a1d666ba11d01a8c4dfef797490f80ac0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2d776f72646d61726b2e737667">
   <img align="center" alt="GIT" title="GIT" width="40" src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
   <img align="center" alt="GITHUB" title="GITHUB" width="55" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
