@@ -38,6 +38,7 @@ Brasília, Brasil
 
 | Cursos | Certificados |
 |------- |------------- |
+|WEX - End to End Engineering .NET e C# | [Certificado](https://hermes.dio.me/certificates/F5JQYVIP.pdf)|
 |Formação Angular Developer | [Certificado](https://hermes.dio.me/certificates/A8FRAUSZ.pdf)|
 |Formação React Developer | [Certificado](https://hermes.dio.me/certificates/JJTYFOSI.pdf)|
 |Formação JavaScript Developer | [Certificado](https://hermes.dio.me/certificates/QMLBASTV.pdf)|
